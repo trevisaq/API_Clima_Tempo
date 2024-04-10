@@ -12,7 +12,7 @@
     "apikey": "[sua chave da api]"
 }
 
-- Por motivos de segurança a chave da API para a realização do acesso aos dados do site estará encoberta. Portanto, utilize sua própria chave da API
+- Por motivos de segurança a chave da API para a realização do acesso aos dados do site estará encoberta. Portanto, utilize sua própria chave 
 
 # como conseguir uma chave API 🔑❓
 
