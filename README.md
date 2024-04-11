@@ -22,4 +22,4 @@
 - Clique no seu nome 
 - Vá em "My API keys"
 
-(lembre-se sempre de instalar as dependecias)
+(lembre-se sempre de instalar as dependências)
